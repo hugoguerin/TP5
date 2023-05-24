@@ -21,37 +21,29 @@
     align-items: center;
 }
 
-#d2{
-    align-items: center;
-    justify-content: space-evenly;
-}
-
-#d3{
+#d2, #d3{
     align-items: center;
     justify-content: space-evenly;
 }
 
 #d4{
     justify-content: space-around;
-
 }
 
 #d4>div{
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
-
+    justify-content: space-around; 
 }
 
 #d5{
-    justify-content: space-around;
+    justify-content: space-evenly;
 }
 
-#d5>div{
+ #d5>div{
     display: flex;
     flex-direction: column;
     justify-content: space-around; 
-
 }
 
 #d5 div:nth-child(2){
@@ -62,8 +54,10 @@
     justify-content: space-around;
 }
 
-#d6>div{
+ #d6>div{
     display: flex;
     flex-direction: column;
-    justify-content: space-evenly;
+    justify-content: space-evenly; 
 }
+
+
