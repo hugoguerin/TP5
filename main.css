@@ -40,7 +40,7 @@
     justify-content: space-evenly;
 }
 
- #d5>div{
+#d5>div{
     display: flex;
     flex-direction: column;
     justify-content: space-around; 
@@ -54,7 +54,7 @@
     justify-content: space-around;
 }
 
- #d6>div{
+#d6>div{
     display: flex;
     flex-direction: column;
     justify-content: space-evenly; 
